@@ -1,7 +1,7 @@
-2804:99a8::/32,BR,BR-PB,Joao Pessoa
-2804:99a8::/33,BR,BR-PB,Joao Pessoa
-2804:99a8::/34,BR,BR-PB,Joao Pessoa
-2804:99a8:4000::/34,BR,BR-PB,Joao Pessoa
-2804:99a8:8000::/33,BR,BR-PB,Joao Pessoa
-2804:99a8:8000::/34,BR,BR-PB,Joao Pessoa
-2804:99a8:c000::/34,BR,BR-PB,Joao Pessoa
+2804:99a8::/32,BR,BR-PB,Joao Pessoa,
+2804:99a8::/33,BR,BR-PB,Joao Pessoa,
+2804:99a8:8000::/33,BR,BR-PB,Joao Pessoa,
+2804:99a8::/34,BR,BR-PB,Joao Pessoa,
+2804:99a8:4000::/34,BR,BR-PB,Joao Pessoa,
+2804:99a8:8000::/34,BR,BR-PB,Joao Pessoa,
+2804:99a8:c000::/34,BR,BR-PB,Joao Pessoa,
